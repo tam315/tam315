@@ -4,7 +4,7 @@
 
 ### Stats
 
-![github stats](https://my-profile-stats-liart.vercel.app/api?username=tam315&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![github stats](https://my-profile-stats2.vercel.app/api?username=tam315&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ### Certificates
 
