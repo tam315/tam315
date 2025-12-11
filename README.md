@@ -1,10 +1,9 @@
 ### My Services
 
-- https://goodmenu.io
-
-### Stats
-
-![github stats](https://my-profile-stats2.vercel.app/api?username=tam315&show_icons=true&hide_title=true&count_private=true&theme=dark)
+- [GoodMenu](https://goodmenu.io)
+- [React Compare Image](https://www.npmjs.com/package/react-compare-image)
+- [Pairwise Pict Online](https://pairwise.yuuniworks.com/)
+- [Yuuniworks Note](https://note.yuuniworks.com/about)
 
 ### Certificates
 
